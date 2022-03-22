@@ -1,3 +1,7 @@
 hi
-testing from india
+<<<<<<< HEAD
+testing from asia
 
+=======
+testing from kolkata
+>>>>>>> f3edf55 (testing)
